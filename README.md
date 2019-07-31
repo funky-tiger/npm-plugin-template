@@ -1,0 +1,1 @@
+# npm-plugin-template
