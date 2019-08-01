@@ -1,5 +1,7 @@
 # 一个快速生成自己 npm 包的懒人模版
 
+[![Build Status](https://www.travis-ci.org/funky-tiger/npm-plugin-template.svg?branch=master)](https://www.travis-ci.org/funky-tiger/npm-plugin-template)
+
 - 使用方法
 
 > git clone 到本地
